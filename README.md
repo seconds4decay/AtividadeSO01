@@ -1,4 +1,4 @@
-# AtividadeSO01
+# AtividadesSO
 
 ## Equipe
 - Felipe de Albuquerque
